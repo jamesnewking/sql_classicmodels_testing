@@ -1,0 +1,20 @@
+{
+  "name": "sql_classicmodel_auomated_test",
+  "version": "1.0.0",
+  "description": "automated SQL testing",
+  "license": "ISC",
+  "author": "James W",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "testForce": "jest --detectOpenHandles --forceExit",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mysql2": "^3.14.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
