@@ -1,4 +1,4 @@
-const db = require('../db');
+const db = require('../helper/db');
 const { dbConfig } = require('../constants/config');
 const { dbTables } = require('../test-data/testData.js');
 let connection;

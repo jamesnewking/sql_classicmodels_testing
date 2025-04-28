@@ -1,5 +1,5 @@
 const mysql = require('mysql2/promise');
-const { dbConfig } = require('./constants/config');
+const { dbConfig } = require('../constants/config');
 
 const connect = async () => {
     const conn = await mysql.createConnection(dbConfig);
