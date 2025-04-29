@@ -1,0 +1,93 @@
+[
+    {
+      "COLUMN_NAME" : "addressLine1",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(50)",
+      "IS_NULLABLE" : "NO",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "addressLine2",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(50)",
+      "IS_NULLABLE" : "YES",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "city",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(50)",
+      "IS_NULLABLE" : "NO",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "contactFirstName",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(50)",
+      "IS_NULLABLE" : "NO",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "contactLastName",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(50)",
+      "IS_NULLABLE" : "NO",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "country",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(50)",
+      "IS_NULLABLE" : "NO",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "creditLimit",
+      "DATA_TYPE" : "decimal",
+      "COLUMN_TYPE" : "decimal(10,2)",
+      "IS_NULLABLE" : "YES",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "customerName",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(50)",
+      "IS_NULLABLE" : "NO",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "customerNumber",
+      "DATA_TYPE" : "int",
+      "COLUMN_TYPE" : "int",
+      "IS_NULLABLE" : "NO",
+      "COLUMN_KEY" : "PRI"
+    },
+    {
+      "COLUMN_NAME" : "phone",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(50)",
+      "IS_NULLABLE" : "NO",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "postalCode",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(15)",
+      "IS_NULLABLE" : "YES",
+      "COLUMN_KEY" : ""
+    },
+    {
+      "COLUMN_NAME" : "salesRepEmployeeNumber",
+      "DATA_TYPE" : "int",
+      "COLUMN_TYPE" : "int",
+      "IS_NULLABLE" : "YES",
+      "COLUMN_KEY" : "MUL"
+    },
+    {
+      "COLUMN_NAME" : "state",
+      "DATA_TYPE" : "varchar",
+      "COLUMN_TYPE" : "varchar(50)",
+      "IS_NULLABLE" : "YES",
+      "COLUMN_KEY" : ""
+    }
+  ]

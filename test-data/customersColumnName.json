@@ -1,0 +1,15 @@
+[
+    "addressLine1",
+    "addressLine2",
+    "city",
+    "contactFirstName",
+    "contactLastName",
+    "country",
+    "creditLimit",
+    "customerName",
+    "customerNumber",
+    "phone",
+    "postalCode",
+    "salesRepEmployeeNumber",
+    "state"
+]

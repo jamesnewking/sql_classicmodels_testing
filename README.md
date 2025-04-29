@@ -1,9 +1,10 @@
 # MYSQL AUTOMATION TESTING
 ## WITH MYSQL2, JEST IN JS
 
+### Inspired by [Youtube: Database Testing](https://youtu.be/Q3SnLBVWOGI?si=XKMNL_8QwzJkUPL7)
+
 ### Setup Database Environment
-#### Download classic models test database from:
-https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/
+#### Download classic models test database from: [classic models](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
 
 #### Import data to MYSQL Database
 > CREATE DATABASE classicmodels;
@@ -16,4 +17,6 @@ Run the script, it will create the tables, and populated them with sample data f
 * Use MySQL Workbench
 ```
 
+### Running Tests
+> npm run test
 
