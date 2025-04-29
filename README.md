@@ -1,5 +1,6 @@
-# MYSQL AUTOMATION TESTING
+# SQL DATABASE AUTOMATION TESTING
 ## WITH MYSQL2, JEST IN JS
+### Author: James W
 
 ### Inspired by [Youtube: Database Testing](https://youtu.be/Q3SnLBVWOGI?si=XKMNL_8QwzJkUPL7)
 
